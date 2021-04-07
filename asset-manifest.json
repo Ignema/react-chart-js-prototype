@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-chart-js-prototype/static/css/main.6c07d647.chunk.css",
+    "main.js": "/react-chart-js-prototype/static/js/main.75948c27.chunk.js",
+    "main.js.map": "/react-chart-js-prototype/static/js/main.75948c27.chunk.js.map",
+    "runtime-main.js": "/react-chart-js-prototype/static/js/runtime-main.f67898a4.js",
+    "runtime-main.js.map": "/react-chart-js-prototype/static/js/runtime-main.f67898a4.js.map",
+    "static/js/2.8f5f443f.chunk.js": "/react-chart-js-prototype/static/js/2.8f5f443f.chunk.js",
+    "static/js/2.8f5f443f.chunk.js.map": "/react-chart-js-prototype/static/js/2.8f5f443f.chunk.js.map",
+    "static/js/3.bed1201c.chunk.js": "/react-chart-js-prototype/static/js/3.bed1201c.chunk.js",
+    "static/js/3.bed1201c.chunk.js.map": "/react-chart-js-prototype/static/js/3.bed1201c.chunk.js.map",
+    "index.html": "/react-chart-js-prototype/index.html",
+    "static/css/main.6c07d647.chunk.css.map": "/react-chart-js-prototype/static/css/main.6c07d647.chunk.css.map",
+    "static/js/2.8f5f443f.chunk.js.LICENSE.txt": "/react-chart-js-prototype/static/js/2.8f5f443f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67898a4.js",
+    "static/js/2.8f5f443f.chunk.js",
+    "static/css/main.6c07d647.chunk.css",
+    "static/js/main.75948c27.chunk.js"
+  ]
+}
